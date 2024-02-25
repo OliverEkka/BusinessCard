@@ -17,19 +17,13 @@ body {
     margin: 0 auto;
     text-align: center;
 
-    background: #ddebf8;
-    color: #2b2839;
-    border-bottom: 6px solid #d8cefe;
+    background: palegreen;
+    color: black;
+    border-bottom: 6px solid black;
+    border-radius: 10px;
 }   
 
 
 /* .border-blue {
     border: 1px dotted blue;
 } */
-
-
-/*
-Challenge:
-Set the width of the image to 150px.
-PS: Use a class to select the img element.
-*/
